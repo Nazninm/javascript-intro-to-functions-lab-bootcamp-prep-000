@@ -1,4 +1,4 @@
 function
-shout(String){
-  
+shout(string){
+  return string
 }
