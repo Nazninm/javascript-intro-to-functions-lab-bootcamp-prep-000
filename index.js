@@ -28,8 +28,8 @@ sayHiToGrandma(string){
   {
     return "YES INDEED!"
   }
-  if()
+  if(string === "I love you, Grandma.")
   {
-    
+    return 
   }
 }
